@@ -5,7 +5,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-Customizado por Valdemar Cavalheiro Junior filtrando apenas jogos do Brasil.
+Customizado por Valdemar Cavalheiro Junior filtrando apenas jogos do Brasil. Com finalidade de treinar o desenvolvimento FrontEnd focando em Display: flex.
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos do Brasil da Copa de 2022.
+O Calendário da Copa é um [Projeto](https://vcj81.github.io/rocket-nlw-10-copa/) que mostra os jogos do Brasil da Copa de 2022.
 
 ## 🔖 Layout
 

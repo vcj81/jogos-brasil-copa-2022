@@ -48,6 +48,11 @@ header {
   text-align: center;
 }
 
+header img {
+  max-width: 30vw;
+  max-height: 30vh;
+}
+
 #cards {
   display: flex;
   flex-direction: column;
