@@ -1,7 +1,11 @@
 <h1 align="center"> NLW #10 Copa </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. 
+</p>
+
+<p align="center">
+Customizado por Valdemar Cavalheiro Junior filtrando apenas jogos do Brasil.
 </p>
 
 <p align="center">
@@ -31,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+O Calendário da Copa é um projeto que mostra os jogos do Brasil da Copa de 2022.
 
 ## 🔖 Layout
 
@@ -43,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat) e customizado por [Junior](https://www.linkedin.com/in/valdemar-cavalheiro-junior-bb1261b1/)
