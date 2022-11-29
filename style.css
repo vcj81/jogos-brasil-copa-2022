@@ -57,6 +57,7 @@ header img {
   display: flex;
   flex-direction: column;
   gap: 32px;
+  justify-content: space-around;
 }
 
 .card {
@@ -133,6 +134,7 @@ header img {
 .card {
   opacity: 0;
   animation: appear 0.2s forwards;
+  width: 350px;
 }
 
 @keyframes appear {
@@ -148,7 +150,7 @@ header img {
 
 @media (min-width: 700px) {
   #cards {
-    max-width: 670px;
+    max-width: 30vw;
     flex-direction: row;
     flex-wrap: wrap;
   }

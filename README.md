@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um [Projeto](https://vcj81.github.io/rocket-nlw-10-copa/) que mostra os jogos do Brasil da Copa de 2022.
+O Calendário da Copa é um [Projeto](https://vcj81.github.io/jogos-brasil-copa-2022/) que mostra os jogos do Brasil da Copa de 2022.
 
 ## 🔖 Layout
 
