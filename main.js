@@ -40,29 +40,17 @@ document.querySelector("#cards").innerHTML =
     "02/12",
     "sexta",
     "16:00",
-    createGame("cameroon", "?", "brazil", "?")
+    createGame("cameroon", "1", "brazil", "0")
   ) +
   createCard(
-    "03-06/12",
+    "05/12",
     "Oitavas Final",
     "16:00",
-    createGame("brazil", "?", "undefined", "?")
+    createGame("brazil", "4", "korea", "1")
   ) +
   createCard(
-    "09-10/12",
+    "09/12",
     "Quartas Final",
     "12:00",
-    createGame("brazil", "?", "undefined", "?")
-  ) +
-  createCard(
-    "13-14/12",
-    "Semi Final",
-    "16:00",
-    createGame("brazil", "?", "undefined", "?")
-  ) +
-  createCard(
-    "18/12",
-    "Final",
-    "12:00",
-    createGame("brazil", "?", "undefined", "?")
+    createGame("brazil", "2", "croatia", "4")
   )
